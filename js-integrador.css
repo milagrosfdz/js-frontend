@@ -1,0 +1,42 @@
+nav{
+    width: auto;
+    height: 95px
+    
+}
+
+.logo{
+    margin: 0%;
+    margin-left: 4%;
+    line-height: 80px;
+}
+
+.logo a{
+    color:white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+ul{
+    float: right;
+    margin-right: 5%;
+}
+
+nav ul li{
+    color: white;
+    display: inline-block;
+    line-height:80px;
+    margin-left:10px;
+}
+
+nav ul li a{
+    color: rgb(180, 176, 176);
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+#grupo-de-cards {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
